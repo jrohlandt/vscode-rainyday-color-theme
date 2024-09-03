@@ -1,7 +1,7 @@
 {
-    "name": "mydarcula",
-    "displayName": "MyDarcula",
-    "description": "Darcula color theme for vscode.",
+    "name": "rainyday",
+    "displayName": "RainyDay",
+    "description": "RainyDay color theme for vscode.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "MyDarculaTheme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MyDarculaTheme-color-theme.json"
+                "label": "RainyDayTheme",
+                "uiTheme": "vs",
+                "path": "./themes/RainyDayTheme-color-theme.json"
             }
         ]
     }

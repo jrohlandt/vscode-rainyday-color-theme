@@ -1,12 +1,12 @@
 {
-	"name": "MyDarculaTheme",
+	"name": "RainyDayTheme",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#ffffff1a",
 		"activityBarBadge.background": "#007acc",
 		"badge.background": "#ffffff1a",
-		"editor.background": "#2b2b2b",
-		"editor.foreground": "#cccccc",
+		"editor.background": "#e3e3e3",
+		"editor.foreground": "#313131",
 		"editor.lineHighlightBackground": "#ffffff0b",
 		"editor.selectionBackground": "#204182cc",
 		"editorGutter.background": "#ffffff0b",
