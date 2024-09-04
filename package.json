@@ -3,6 +3,7 @@
     "displayName": "RainyDay",
     "description": "RainyDay color theme for vscode.",
     "version": "0.0.1",
+    "publisher": "jrohlandt",
     "engines": {
         "vscode": "^1.53.0"
     },
