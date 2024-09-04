@@ -2,8 +2,9 @@
 	"name": "RainyDayTheme",
 	"type": "light",
 	"colors": {
-		"activityBar.background": "#ffffff1a",
+		"activityBar.background": "#b6b6b6",
 		"activityBar.foreground": "#313131",
+		"activityBar.inactiveForeground": "#7f8286",
 		"activityBarBadge.background": "#313131",
 		"badge.background": "#ffffff1a",
 		"editor.background": "#e3e3e3",
@@ -24,7 +25,14 @@
 		"tab.inactiveBackground": "#ffffff0b",
 		"titleBar.activeBackground": "#ffffff1a",
 		"titleBar.activeForeground": "#cccccc",
-		"titleBar.inactiveBackground": "#ffffff10"
+		"titleBar.inactiveBackground": "#ffffff10",
+			"editorBracketMatch.background": "#ffffff",
+		"editorBracketMatch.border": "#ffffff",
+		"editorBracketHighlight.foreground1": "#313131",
+		"editorBracketHighlight.foreground2": "#313131",
+        "editorBracketHighlight.foreground3": "#313131",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#f760d1",
+		"editorLineNumber.foreground": "#c2c1c1"
 	},
 	"tokenColors": [
 		{
@@ -102,7 +110,10 @@
 		{
 			"scope": "support.function, entity.name.function",
 			"settings": {
-				"foreground": "#313131"
+				// "foreground": "#5292db",
+				"foreground": "#3d64b9",
+				"fontStyle": "bold"
+
 			}
 		},
 		{
@@ -477,7 +488,7 @@
 			],
 			"settings": {
 				"foreground": "#313131",
-				"fontStyle": "bold"
+				// "fontStyle": "bold"
 			}
 		},
 		{
