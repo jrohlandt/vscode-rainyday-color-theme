@@ -488,7 +488,7 @@
 			],
 			"settings": {
 				"foreground": "#313131",
-				// "fontStyle": "bold"
+				"fontStyle": "bold"
 			}
 		},
 		{
