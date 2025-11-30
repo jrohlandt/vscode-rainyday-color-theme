@@ -2,7 +2,7 @@ Best way to install is just to clone the repo into your ~/.vscode/extensions fol
 
 1. Clone repo:
 ```
-git clone git@github.com:jrohlandt/vscode-rainyday-color-theme.git rainyday-color-theme-0.0.1
+git clone git@github.com:jrohlandt/vscode-rainyday-color-theme.git rainyday-color-theme
 ```
 
 2. Open VSCode and use Preferences: Color Theme command to see if theme is available.
@@ -18,10 +18,10 @@ git clone git@github.com:jrohlandt/vscode-rainyday-color-theme.git rainyday-colo
     "version": "0.0.1",
     "location": {
       "$mid": 1,
-      "path": "/Users/youruser/.vscode/extensions/rainyday-color-theme-0.0.1",
+      "path": "/Users/youruser/.vscode/extensions/rainyday-color-theme",
       "scheme": "file"
     },
-    "relativeLocation": "rainyday-color-theme-0.0.1"
+    "relativeLocation": "rainyday-color-theme"
   },
 ```
 
