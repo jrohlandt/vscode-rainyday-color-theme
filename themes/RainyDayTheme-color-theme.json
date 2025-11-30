@@ -7,7 +7,7 @@
 		"activityBar.inactiveForeground": "#7f8286",
 		"activityBarBadge.background": "#313131",
 		"badge.background": "#ffffff1a",
-		"editor.background": "#e3e3e3",
+		"editor.background": "#ccc8c8",
 		"editor.foreground": "#313131",
 		"editor.lineHighlightBackground": "#71707030",
 		"editor.selectionBackground": "#204182cc",
